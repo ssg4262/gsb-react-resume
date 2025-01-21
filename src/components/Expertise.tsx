@@ -6,8 +6,8 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
-    "TypeScript",
+    "React.js",
+    "Vue.js (2,3)",
     "JavaScript",
     "HTML5",
     "CSS3",
@@ -41,7 +41,7 @@ const labelsThird = [
     "Streamlit",
 ];
 
-function Expertise() {
+const Expertise = ()=> {
     return (
     <div className="container" id="expertise">
         <div className="skills-container">

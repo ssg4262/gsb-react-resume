@@ -1,7 +1,10 @@
 .dark-mode .about-section {
     background-color: rgba(0, 0, 0, 0.2);
 }
-
+.main-image {
+    width : 150px;
+    height: 150px;
+}
 .about-section {
     display: flex;
     gap: 30px;
