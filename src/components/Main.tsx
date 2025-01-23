@@ -23,6 +23,8 @@ const Main = () => {
             <a href="https://github.com" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
+          <p>Phone: 010-4262-5265</p>
+          <p>Email: rhtmdqja4262@naver.com</p>
         </div>
       </div>
     </div>
