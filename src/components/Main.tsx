@@ -13,18 +13,17 @@ const Main = () => {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://github.com/ssg4262" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>고승범</h1>
           <p>Full Stack 개발자</p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://https://github.com/ssg4262" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <p>Phone: 010-4262-5265</p>
-          <p>Email: rhtmdqja4262@naver.com</p>
         </div>
       </div>
     </div>
