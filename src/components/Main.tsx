@@ -20,7 +20,7 @@ const Main = () => {
           <p>Full Stack 개발자</p>
 
           <div className="mobile_social_icons">
-            <a href="https://https://github.com/ssg4262" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://github.com/ssg4262" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <p>Phone: 010-4262-5265</p>
