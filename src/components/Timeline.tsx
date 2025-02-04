@@ -89,8 +89,8 @@ const Timeline = () => {
             <ul>
               <li><strong>1. </strong>접수,진료대기,예약대기,환자정보,문진및 바이탈 팝업,진단서 등록 팝업</li>
               <li><strong>2. </strong>공통 컴포넌트(파일업로드)</li>
-              <li><strong>3. </strong>모바일용 페이지(환자 접수 화면) 개발</li>
-              <li><strong>3. </strong>App.js 의 라우터등 설정 , 토큰인증 관련 네비게이션 가드 프론트 처리 경험 , 토큰 , 예외처리 Axios 재정의 경험</li>
+              <li><strong>3. </strong>모바일용 페이지(환자 접수 화면) App 용 개발 경험</li>
+              <li><strong>4. </strong>App.js 의 라우터등 설정 , 토큰인증 관련 네비게이션 가드 프론트 처리 경험 , 토큰 , 예외처리 Axios 재정의 경험</li>
             </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -158,12 +158,12 @@ const Timeline = () => {
             <p><strong>형상관리 : Git Hub <GitHubIconSvg/></strong></p>
             <p><strong>클라우드 : Docker <DockerIconSvg/> , Kubernetes(K8s) <KubenetesIconSvg/> , Redii , Jenkins</strong></p>
             <br/>
-            <p><strong>개발 목록 🔨</strong></p>
+            <p><strong>개발 및 운영 목록 🔨</strong></p>
             <ul>
               <li><strong>1. </strong>삼성디스플레이 내 RPA 포털 추가 개발,유지보수,서버관리,DBA</li>
               <li><strong>2. </strong>RPA 포털 전체 유지보수(프론트,백엔드)</li>
-              <li><strong>3. </strong>추가 개발건,오류 수정</li>
-              <li><strong>4. </strong>내부 사원 관리용 사용자 프로필 등록 시스템 페이지 개발</li>
+              <li><strong>3. </strong>삼성 현업 고객과의 개발 관련 의견 조율 및 요구사항 분석 후 추가 포털 내 추가 기능개발</li>
+              <li><strong>4. </strong>고객 피드백을 바탕으로 성능 최적화와 기능 개선을 통해 사용자 만족도 향상</li>
               <li><strong>5. </strong>클라우드 기반 서버관리</li>
               <li><strong>6. </strong>스프링 시큐리티 provider 에서 권한 예외처리 추가 경험</li>
             </ul>
