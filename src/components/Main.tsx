@@ -2,14 +2,14 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import MainImage from '../assets/images/profile/profile.jpeg'
+import MainImage from '../assets/images/profile/gsb_resume_profile.jpg'
 const Main = () => {
 
   return (
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src={MainImage}  alt="고승범 이모지" />
+          <img src={MainImage} alt="고승범 이모지" />
         </div>
         <div className="content">
           <div className="social_icons">
